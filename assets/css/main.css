@@ -2786,23 +2786,6 @@ button:disabled,
 
 /* Tarot Page */
 .imageCollage {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	margin: 0 auto;
-	max-width:900px;
-}
-.imageCollage_text{
-	padding:20px;
-	background:#e6e6e6;
-	border-radius:3px;
-	font-size:1.5rem;
-	width:300px;
-	margin:2px;
-}
-.imageCollage img{
-  height: 500px;
-  flex-grow: 1;
-  object-fit: cover;
-  margin: 2px;
+ width: 100%;
+    height: auto;
 }
